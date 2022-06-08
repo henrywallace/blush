@@ -5,7 +5,7 @@ authors = ["Henry Wallace <h@henrywallace.io>"]
 edition = "2018"
 
 [dependencies]
-ordered-float = "1.0.2"
+ordered-float = "1.1.1"
 num-traits = "0.2.6"
 lexical = "2.1.0"
 ndarray = "0.12.1"
